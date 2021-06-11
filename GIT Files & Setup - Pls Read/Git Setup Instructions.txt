@@ -7,8 +7,15 @@
 [merge "ours"]
         driver = true
 
-4. In the .git directory, replace your 'info' directory with the 'info' directory in this folder.
-5. Close your .git directory
+
+4. Close 'config' file
+
+5. Copy the 'info' directory in this Git Setup folder. Paste it into your .git directory, replacing your current 'info' directory.
+
+6. Your new 'info' directory should now contain two files: exclude and attributes
+
+
+ 
 
 
 
