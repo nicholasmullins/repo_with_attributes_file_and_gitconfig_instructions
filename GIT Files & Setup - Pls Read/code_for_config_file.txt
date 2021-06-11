@@ -1,0 +1,5 @@
+Please copy and paste this into the config file in your .git folder in your local repo:
+
+
+[merge "ours"]
+        driver = true
