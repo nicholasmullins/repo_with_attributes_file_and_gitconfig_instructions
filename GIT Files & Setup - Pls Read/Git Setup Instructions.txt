@@ -1,4 +1,4 @@
-After you clone the repo:
+ After you clone the repo:
 
 1. Go to your repo folder and hit CMD-SHIFT-PERIOD. This will show your hidden files
 2. Open your .git directory
