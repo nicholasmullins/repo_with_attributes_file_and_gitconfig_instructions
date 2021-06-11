@@ -7,17 +7,17 @@
     "enabled": false, 
     "focusable": true, 
     "focused": false, 
-    "hash": "On7eBBN2jKZGHoK0eoEZIA==\n", 
+    "hash": "zicqs3/O3yucW5boCEznvA==\n", 
     "height": 22, 
     "hier_level": 0, 
-    "human_hash": "a_X799_Y56_W53_H22", 
-    "human_readable": "a_799_56_53_22_a_0000000000007800f800dffb9fff9ffe9fffffff7fff00000000000000000000_962b74c4a4de710ef7e1fc5efa538b69", 
-    "image_path": "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png", 
+    "human_hash": "a_X1169_Y56_W116_H22", 
+    "human_readable": "a_1169_56_116_22_a_0000000000000084c0c4ff7fffffffffff7fffffffff00000000000000000000_74e178dd3c10ee46da7a88a522a9f5fd", 
+    "image_path": "M2MxMmRkM2U0NGY5MGFjYjhjZmVjZjg1YzEyZDY0Y2Q.png", 
     "internal": {
         "elem_dict": {
             "attributes": {
                 "class": "", 
-                "href": "/groupfitness?icmp=topnav-classes"
+                "href": "/memberbenefits?icmp=topnav-memberbenefits"
             }, 
             "background-color": "rgba(0, 0, 0, 0)", 
             "class": "a", 
@@ -41,25 +41,25 @@
             "is-hidden": false, 
             "name": "", 
             "tagName": "a", 
-            "text": "Classes", 
+            "text": "Member Benefits", 
             "type": "", 
             "value": "", 
-            "width": 53, 
-            "x": 799, 
-            "xPercent": 41.615397135416664, 
+            "width": 116, 
+            "x": 1169, 
+            "xPercent": 60.888671875, 
             "y": 56, 
             "yPercent": 0.8070379525956085
         }, 
         "location": {
-            "x": 799, 
+            "x": 1169, 
             "y": 56
         }, 
         "size": {
             "height": 22, 
-            "width": 53
+            "width": 116
         }, 
         "tag_name": "a", 
-        "text": "Classes"
+        "text": "Member Benefits"
     }, 
     "is_transformed": true, 
     "package": "", 
@@ -68,9 +68,9 @@
     "screen_hash": "d81ae11615b7f64531b1e87786cb574e", 
     "scrollable": false, 
     "tag_name": "a", 
-    "text": "Classes", 
+    "text": "Member Benefits", 
     "transformed": true, 
-    "width": 53, 
-    "x": 799, 
+    "width": 116, 
+    "x": 1169, 
     "y": 56
 }

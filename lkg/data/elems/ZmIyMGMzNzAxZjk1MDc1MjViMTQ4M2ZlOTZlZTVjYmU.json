@@ -7,17 +7,17 @@
     "enabled": false, 
     "focusable": true, 
     "focused": false, 
-    "hash": "On7eBBN2jKZGHoK0eoEZIA==\n", 
+    "hash": "Lm0e5VJlVlzhfP+o+mnHNw==\n", 
     "height": 22, 
     "hier_level": 0, 
-    "human_hash": "a_X799_Y56_W53_H22", 
-    "human_readable": "a_799_56_53_22_a_0000000000007800f800dffb9fff9ffe9fffffff7fff00000000000000000000_962b74c4a4de710ef7e1fc5efa538b69", 
-    "image_path": "MTE0OGYzMWMxMTk1MTA2NDNhOWEyNWE0MmMwMWZkYzQ.png", 
+    "human_hash": "a_X1068_Y56_W37_H22", 
+    "human_readable": "a_1068_56_37_22_a_0000000000006c007c004f6e7fff3d9b5d9b5dff7d6e00080008000000000000_d5d7c7ca8cf1a6a118c51745dc3c129b", 
+    "image_path": "ZmIyMGMzNzAxZjk1MDc1MjViMTQ4M2ZlOTZlZTVjYmU.png", 
     "internal": {
         "elem_dict": {
             "attributes": {
                 "class": "", 
-                "href": "/groupfitness?icmp=topnav-classes"
+                "href": "https://equinoxtheshop.com/?icmp=topnav-shop"
             }, 
             "background-color": "rgba(0, 0, 0, 0)", 
             "class": "a", 
@@ -41,25 +41,25 @@
             "is-hidden": false, 
             "name": "", 
             "tagName": "a", 
-            "text": "Classes", 
+            "text": "Shop", 
             "type": "", 
             "value": "", 
-            "width": 53, 
-            "x": 799, 
-            "xPercent": 41.615397135416664, 
+            "width": 37, 
+            "x": 1068, 
+            "xPercent": 55.64453124999999, 
             "y": 56, 
             "yPercent": 0.8070379525956085
         }, 
         "location": {
-            "x": 799, 
+            "x": 1068, 
             "y": 56
         }, 
         "size": {
             "height": 22, 
-            "width": 53
+            "width": 37
         }, 
         "tag_name": "a", 
-        "text": "Classes"
+        "text": "Shop"
     }, 
     "is_transformed": true, 
     "package": "", 
@@ -68,9 +68,9 @@
     "screen_hash": "d81ae11615b7f64531b1e87786cb574e", 
     "scrollable": false, 
     "tag_name": "a", 
-    "text": "Classes", 
+    "text": "Shop", 
     "transformed": true, 
-    "width": 53, 
-    "x": 799, 
+    "width": 37, 
+    "x": 1068, 
     "y": 56
 }
